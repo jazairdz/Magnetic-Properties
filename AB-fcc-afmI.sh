@@ -30,14 +30,10 @@ cp $wdir.struct-P $wdir.struct-P2
 
 
 # create the AFM structure
-
-
 sed -e '7s/./1/3' -e '13s/./1/3' -e '19s/./2/3' -e '25s/./2/3' $wdir.struct-P2 > $wdir.struct
-
 cp $wdir.struct $wdir.struct-afmI-ws
-
 sgroup -wi $wdir.struct -wo $wdir.struct_sgroup
-
 cp $wdir.struct_sgroup $wdir.struct-afmI
-
 cp $wdir.struct-cubic-F $wdir.struct
+
+
