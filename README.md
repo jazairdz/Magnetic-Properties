@@ -1,2 +1,2 @@
-# Magnetic structures of binary compounds having the fcc structures
+# Magnetic structures of many compounds having different crystal structures
 All about magnetic properties under wien2k 
