@@ -31,3 +31,5 @@ cp $wdir.struct-afmIIIws $wdir.struct
 sgroup -wi $wdir.struct -wo $wdir.struct_sgroup
 cp $wdir.struct_sgroup $wdir.struct-afmIII
 rm $wdir.struct-splitIII
+
+
