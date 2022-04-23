@@ -100,3 +100,5 @@ cp $wdir.struct $wdir.struct-afmIII-ws
 sgroup -wi $wdir.struct -wo $wdir.struct_sgroup
 cp $wdir.struct_sgroup $wdir.struct-afmIII
 cp $wdir.struct-cubic-F $wdir.struct
+
+
